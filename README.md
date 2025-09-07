@@ -11,7 +11,7 @@ A web project showcasing animations and smooth scrolling using [GSAP](https://gr
 
 ## Live Demo
 
-Check out the live demo at [miranda-papers.netlify.app](https://miranda-papers.netlify.app).
+Check out the live demo at BUT MAKE SURE YOU VIEW IT AT 50% SCREEN FOR BETTER VIEW [miranda-papers.netlify.app](https://miranda-papers.netlify.app).
 
 ## Project Structure
 
